@@ -1,4 +1,4 @@
-# Portfolio-CW-
+# Portfolio_CW
 Database Principals Portfolio (Coursework)
 # SQL Database Principles - Weekly Labs
 
